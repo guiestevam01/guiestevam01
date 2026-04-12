@@ -15,19 +15,15 @@
 
 ---
 
-## 💻 Tecnologias que uso
+## 📊 Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiestevam01&layout=compact&langs_count=10)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guiestevam01&show_icons=true&theme=default&cache_seconds=60)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiestevam01&layout=compact&cache_seconds=60)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guiestevam01&show_icons=true)
 
 ---
 
