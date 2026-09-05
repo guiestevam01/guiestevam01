@@ -1,8 +1,6 @@
-# Guilherme Estevam
+# Guilherme
 
-Estudante de Ciência da Computação. Escrevo **Go** e **Java** com o objetivo de construir sistemas distribuídos — concorrência, comunicação entre serviços e o que acontece abaixo da abstração.
-
-**Agora:** Go (goroutines, channels, `net/http`) e fundamentos de systems design.
+Sou Guilherme, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente estou tentando entender como sistemas distribuídos são construídos de verdade — e, em paralelo, dando umas brincadas com IA.
 
 ---
 
