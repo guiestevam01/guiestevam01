@@ -1,4 +1,4 @@
-# Guilherme
+# Guilherme Estevam
 
 Sou Guilherme, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente estou tentando entender como sistemas distribuídos são construídos de verdade — e, em paralelo, dando umas brincadas com IA.
 
@@ -44,6 +44,12 @@ Todo o material vive em **[`estudo`](https://github.com/guiestevam01/estudo)**, 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=guiestevam01&show_icons=true&hide_border=true&bg_color=00000000&count_private=true&hide=issues" alt="stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiestevam01&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
 </p>
+
+---
+
+> *"Be sure of having used to the full all that is communicated by immobility and silence."*
+>
+> — Robert Bresson, [Notes on the Cinematographer]
 
 ---
 
