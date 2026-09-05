@@ -1,6 +1,6 @@
 # Guilherme Estevam
 
-Sou Guilherme, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente estou tentando entender como sistemas distribuídos são construídos de verdade — e, em paralelo, dando umas brincadas com IA.
+Sou Guilherme, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente estou tentando entender como sistemas distribuídos são construídos de verdade,e, em paralelo, dando umas brincadas com IA.
 
 ---
 
