@@ -23,7 +23,6 @@ Todo o material vive em **[`estudo`](https://github.com/guiestevam01/estudo)**, 
 | [`java`](https://github.com/guiestevam01/estudo/tree/main/java) | Java Core, OOP, design patterns, trilha de estudos |
 | [`systemdesign`](https://github.com/guiestevam01/estudo/tree/main/systemdesign) | Arquitetura e sistemas distribuídos |
 | [`estrutura-de-dados`](https://github.com/guiestevam01/estudo/tree/main/estrutura-de-dados) | Estruturas de dados e algoritmos |
-| [`Computacao`](https://github.com/guiestevam01/estudo/tree/main/Computacao) | Teoria da computação, SO, leituras |
 | [`matematica`](https://github.com/guiestevam01/estudo/tree/main/matematica) | Base matemática para CS |
 | [`inteligencia-artificial`](https://github.com/guiestevam01/estudo/tree/main/inteligencia-artificial) | Embeddings, tensores, experimentos com LLMs |
 | [`projetos`](https://github.com/guiestevam01/estudo/tree/main/projetos) | Implementações fim a fim |
