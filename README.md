@@ -52,4 +52,4 @@ Todo o material vive em **[`estudo`](https://github.com/guiestevam01/estudo)**, 
 
 ---
 
-<sub>Maringá, PR · [LinkedIn](https://linkedin.com/in/SEU-USUARIO) · [email](mailto:SEU-EMAIL)</sub>
+<sub>Maringá, PR · [LinkedIn](https://linkedin.com/in/guilherme-estevam-51687530b) · [email](mailto:guiestara01@gmail.com)</sub>
